@@ -1,6 +1,6 @@
 
 <?php
-	echo "ok";
+	echo ok;
 //	CREATE BY NONTACHAI KORNINAI
 //	01 OCTOBER 2016
 //
